@@ -48,8 +48,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 2. Navigate to the project directory:
+   
    cd your-repo-name
 3. Install dependencies
+   
    pip install pandas numpy matplotlib seaborn scikit-learn
 4. Run the notebook
 
@@ -65,4 +67,4 @@ Add interactive or advanced visualizations
 
 LinkedIn: www.linkedin.com/in/palagiri-reshma
 
-GitHub: 
+GitHub: https://github.com/reshmapalagiri-ds
