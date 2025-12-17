@@ -43,7 +43,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Elbow curve for cluster selection
   ![Elbow plot](https://github.com/reshmapalagiri-ds/-Uncovering-Hidden-Patterns-in-Geyser-Eruptions-Using-K-Means-Clustering/blob/af508a621f2466e33d23573358aaee7b9141ba43/Elbow%20plot.png)
 - Clustered data visualization with centroids
-  ![Clustered data]() 
+  ![Clustered data](https://github.com/reshmapalagiri-ds/-Uncovering-Hidden-Patterns-in-Geyser-Eruptions-Using-K-Means-Clustering/blob/f7c5e9663df1e03f353c5eaf918a606d99c7b90a/image.png) 
 
 ## ▶️ How to Run the Project
 
