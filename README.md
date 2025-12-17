@@ -41,7 +41,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Scatter plot of raw data
   ![Scatter plot of raw data](https://github.com/reshmapalagiri-ds/-Uncovering-Hidden-Patterns-in-Geyser-Eruptions-Using-K-Means-Clustering/blob/49a965ba32e04a302c8604f27924f09ef40021cf/Visualisation%20of%20raw%20data.png)  
 - Elbow curve for cluster selection
-  ![Elbow plot]()
+  ![Elbow plot](https://github.com/reshmapalagiri-ds/-Uncovering-Hidden-Patterns-in-Geyser-Eruptions-Using-K-Means-Clustering/blob/af508a621f2466e33d23573358aaee7b9141ba43/Elbow%20plot.png)
 - Clustered data visualization with centroids
   ![Clustered data]() 
 
