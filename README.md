@@ -38,9 +38,12 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## 📈 Visualizations
 
-- Scatter plot of raw data  
-- Elbow curve for cluster selection  
-- Clustered data visualization with centroids 
+- Scatter plot of raw data
+  ![Scatter plot of raw data]()  
+- Elbow curve for cluster selection
+  ![Elbow plot]()
+- Clustered data visualization with centroids
+  ![Clustered data]() 
 
 ## ▶️ How to Run the Project
 
