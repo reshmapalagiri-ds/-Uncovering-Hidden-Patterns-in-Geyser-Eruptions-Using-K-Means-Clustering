@@ -39,7 +39,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## 📈 Visualizations
 
 - Scatter plot of raw data
-  ![Scatter plot of raw data]()  
+  ![Scatter plot of raw data](https://github.com/reshmapalagiri-ds/-Uncovering-Hidden-Patterns-in-Geyser-Eruptions-Using-K-Means-Clustering/blob/49a965ba32e04a302c8604f27924f09ef40021cf/Visualisation%20of%20raw%20data.png)  
 - Elbow curve for cluster selection
   ![Elbow plot]()
 - Clustered data visualization with centroids
